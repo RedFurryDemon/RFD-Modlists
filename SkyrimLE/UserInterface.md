@@ -51,8 +51,8 @@ Improves console use: allows searching command history and setting up user alias
 	**Plugin:** no  
 	**Notes:** patch should be installed after Mfg Console  
   
-### Uncle Sheogorath  
-Replacer for loading screen text.  
+### Loading screens  
+Uncle Sheo is a replacer for loading screen text; could be compatible with mods that alter the displayed meshes.  
 **Notes:** RFD recommends merging these plugins.  
   
 **[Uncle Sheogorath](https://www.nexusmods.com/skyrim/mods/12234)** 
