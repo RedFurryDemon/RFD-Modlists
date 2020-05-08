@@ -57,7 +57,10 @@ RFD recommends merging these plugins.
 	**Plugin:** yes  
 	**Mod recommended by RFD for (almost) any playthrough**  
   
+### Map
+needs testing
   
+### Other
 [Morrowind Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2784) by [jglenn1066](https://www.nexusmods.com/users/26044699)  
 	**Tested:** yes  
 	**Assets:** yes - Interface  
