@@ -105,6 +105,12 @@ Replaces menu font with Pelagiad font.
 	**Plugin:** no  
 	**Notes:** mod is for SSE, but it's fully compatible with LE  
   
+**[Better Dialogue Controls](https://www.nexusmods.com/skyrim/mods/27371)** 
+by [ecirbaf](https://www.nexusmods.com/users/3238634)  
+	**Tested:** yes  
+	**Assets:** yes - Interface  
+	**Plugin:** no  
+  
 **[No More Laser-Printed Text](https://www.nexusmods.com/skyrim/mods/62208)** 
 by [Fhaarkas](https://www.nexusmods.com/users/1157655)  
 Decreases book text contrast.  
