@@ -1,5 +1,14 @@
 ## Creatures
-
+  
+### Dragons
+**[Bellyaches HD Dragon Replacer Pack](https://www.nexusmods.com/skyrim/mods/29631)** 
+by [Wrig675](https://www.nexusmods.com/skyrim/users/3224445)  
+	**Tested:** yes  
+	**Assets:** yes - Meshes, Textures  
+	**Plugin:** no  
+  
+### Other
+  
 **[Horses of Skyrim](https://www.nexusmods.com/skyrim/mods/73164)** 
 by [ElioraArin](https://www.nexusmods.com/users/23041804)  
 	**Tested:** no  
