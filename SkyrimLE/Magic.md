@@ -23,6 +23,13 @@ Changes color of magical light created with Candlelight and similar spells.
 	**Plugin:** yes  
 	**Notes:** RFD picked the normal size, warm color option  
   
+**[Acquisitive Soul Gems Multithreaded](https://www.nexusmods.com/skyrim/mods/65975)** 
+by []()  
+	**Requirements:** SKSE, Papyrus Utils
+	**Tested:** no  
+	**Assets:** yes - Interface, Scripts  
+	**Plugin:** yes  
+  
 **[Smaller Ice Spike and Ice Spear](https://www.nexusmods.com/skyrim/mods/31899)** 
 by [odin_ml](https://www.nexusmods.com/users/50001)  
 Scales ice projectile meshes down to 50 or 30%.  
